@@ -1,0 +1,8 @@
+Goes through VGChartz PC, Xbox360, PS3 and Wii game list and scrape the following:
+
+# Title
+# Platform
+# Publisher
+# Year
+# Genre
+# Global Sales (in millions per units)
